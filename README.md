@@ -46,4 +46,4 @@ El **Gestor de Finanzas** es una aplicación de escritorio diseñada para ayudar
 ## Capturas de Pantalla
 
 ### Pantalla Principal
-![Pantalla Principal](screenshots/pantalla_principal.png)
+![Pantalla Principal](pantalla.png)
